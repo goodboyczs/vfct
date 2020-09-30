@@ -1,0 +1,15 @@
+{
+  "name": "vuefilefast",
+  "version": "1.0.0",
+  "description": "快速生成vue模板文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cuixiaosa66",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^6.1.0",
+    "inquirer": "^7.3.3"
+  }
+}
